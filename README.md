@@ -9,7 +9,7 @@
   <a href="officialbiswajitdey@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://leetcode.com/Phinix_BI/" target="_blank">
+  <a href="https://leetcode.com/Phinix-BI/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
@@ -81,5 +81,5 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 
 <li>GitHub: (https://github.com/Phinix-BI)</li>
 <li>LinkedIn: (https://www.linkedin.com/in/1biswajitdey/)</li>
-<li>LeetCode: (https://leetcode.com/phinix_BI/)</li>
+<li>LeetCode: (https://leetcode.com/Phinix-BI/)</li>
 
